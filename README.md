@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3776AB,100:FFD43B&height=190&section=header&text=Renato%20Rodrigues&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Computa%C3%A7%C3%A3o%20%7C%20Python%20%26%20Algoritmos&descAlignY=58&descSize=18&animation=fadeIn" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:3776AB,100:FFD43B&height=190&section=header&text=Renato%20Rodrigues&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Computa%C3%A7%C3%A3o%20%7C%20Python%20%26%20Algoritmos&descAlignY=58&descSize=18&animation=fadeIn&reversal=false" alt="">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3776AB&center=true&vCenter=true&width=620&lines=Aprendendo+em+p%C3%BAblico%2C+um+commit+por+vez;Python%2C+algoritmos+e+estruturas+de+dados;Do+Assembly+ao+Jupyter+Notebook;UFRPE+%7C+Brasil" alt="">
