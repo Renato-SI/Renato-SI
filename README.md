@@ -65,6 +65,18 @@
 
 <br>
 
+## &nbsp;&nbsp;Atividade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renato-SI/Renato-SI/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renato-SI/Renato-SI/output/snake-light.svg">
+    <img width="100%" alt="Cobrinha comendo o grafico de contribuicoes" src="https://raw.githubusercontent.com/Renato-SI/Renato-SI/output/snake-dark.svg">
+  </picture>
+</p>
+
+<br>
+
 ## &nbsp;&nbsp;Números
 
 <p align="center">
